@@ -1,6 +1,6 @@
-GalaxyA123# OpenAPI Library
+OpenAPI Library
 
-<!-- vscode-markdown-toc -->
+GalaxyA123<!-- vscode-markdown-toc -->
 * 1. [Installation](#Installation)
 * 2. [Usage](#Usage)
 	* 2.1. [Instanza della classe](#Instanzadellaclasse)
